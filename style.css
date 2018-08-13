@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  margin: 0;
+
+}
+
+#title {font-size: 80px;
+  margin: 10px;}
+
+#coverImage {
+  border-radius: 10px;
+  margin-right: 10px
+}
+
+#instruction { margin: 5px;}
+
+#desc {font-size: 20px;
+  margin: 5px;}
